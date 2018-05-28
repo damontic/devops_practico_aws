@@ -4,4 +4,4 @@ deployer-key
 plan*
 .vagrant
 vagrant/*.log
-
+monitoring/prometheus/client_golang/*
